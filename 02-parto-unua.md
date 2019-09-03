@@ -4,6 +4,7 @@ PARTO UNUA
 EN LA NOMO DE NIA SINJORO,
 LA SUPERECA, LA PLEJALTA.
 
+2
 Neniu atingos la bordojn de la oceano de l' vera kompreno, se li ne malligos sian koron de ĉio, kio estas en la ĉielo kaj sur la tero.  Sanktigu viajn animojn, ho vi, loĝantoj de la mondo, por ke vi atingu tiun staton, kiun Dio por vi destinis kaj eniru tiel la tabernaklon, kiu, laŭ la decido de Providenco, estas starigita sub la firmamento de Bayán.
 
 3
