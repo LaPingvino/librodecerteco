@@ -1,15 +1,7 @@
-# Kitáb-i-Íqán
-## Bahá'u'lláh
+# Libro de Certeco
 
-\pagebreak
+La Kitáb-i-Íqán de Bahá'u'lláh
 
-# KITÁB-I-ÍQÁN
-## Libro de Certeco
+laŭ la angla traduko de SHOGHI EFFENDI
 
-Laŭ la angla traduko de
-
-SHOGHI EFFENDI
-
-esperantigis
-
-Lidia Zamenhof
+esperantigis Lidia Zamenhof

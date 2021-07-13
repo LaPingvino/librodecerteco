@@ -1,4 +1,4 @@
-PARTO DUA
+# PARTO DUA
 
 1
 Vere Tiu, kiu estas Astro de la Vero kaj Malkaŝanto de la Plejsupera Estaŕo, havas en ĉiuj tempoj sendisputan regadon super ĉiu, kiu estas en la ĉielo kaj sur la tero, se eĉ troviĝus sur la tero neniu homo, kiu Lin obeus. Vere Li estas sendependa de ĉia tera aŭtoritato, se Li eĉ estus en ekstrema mizero. Tiel Ni malkaĉas al vi la misterojn de la Afero de Dio, kaj donacas al vi la gemajn de la dia saĝeco, por ke vi ekflugu per la flugiloj de sinrezigno al tiuj altaŕoj, kiuj estas forvualitaj de la homaj okuloj.

@@ -1,4 +1,4 @@
-GLOSARO
+# GLOSARO
  
 
 ‘Abá: Supervesto aŭ mantelo.
