@@ -280,7 +280,7 @@ Ibn Rúh ḥusayn (Abu’l-Kasim al Husain ibn Rúh)
 : Li estis sankta shaykh kaj unu el la pordoj, kondukantaj al Sáhíb az Zamán (la Sinjoro de Tempo) aŭ la lasta granda Imámo, laŭ la ŝiana doktrino. Li estis elektita de Abú‘ Ja‘afar Muḥammad ibn Othmán al Omari kiel lia leŭtenanto, kaj kiam la lasta klasifikis la ŝianojn laŭ iliaj rangoj, ‘Abu’l-Kasím ricevis la rajton aperadi antaŭ li la unua el ĉiuj.
 
 Ibn-i-Zíyád
-: TODO #1
+: TODO [#1](https://github.com/LaPingvino/librodecerteco/issues/1)
 
 Ibn-i-Sa‘d
 : Persekutantoj de la idaro de Mahometo.
@@ -538,7 +538,7 @@ Namáz-Khánin
 : Laŭvorte: »preĝodomo«.
 
 Násikhu’t-Tawáríth
-: TODO #1
+: TODO [#1](https://github.com/LaPingvino/librodecerteco/issues/1)
 
 Rawzatus-safa
 : Historio kompilita de generalo Musulman, historiisto. Historio, verkita de Mírzá Takí Mustawfí.
