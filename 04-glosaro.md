@@ -40,7 +40,7 @@ A.H. (»Post Heĝiro«)
 : Frato de ‘Aka Siyyid ḥusayn el Yazd. Li estis malliberigita kune kun Báb. Li kaj lia frato ricevis de Báb la ordonon forlasi Lin kaj iri inter la homojn, por proklami la verajn Instruojn al la popolo de Dio.
 
 ‘Aka Siyyid ḥusayn el Yazd
-: Skribisto de Báb. Li estis malliberigita kune kun Báb. Antaú sia ekzekuto Báb ordonis ke ḥusayn forlasi lin, kaŝi sian kredon, iri inter la homojn kaj transdoni la gemojn de la sciado al la popolo de Dio. Li atingis siavice la rangon de martiro en ṭihrán.
+: Skribisto de Báb. Li estis malliberigita kune kun Báb. Antaú sia ekzekuto Báb ordonis ke ḥusayn forlasi lin, kaŝi sian kredon, iri inter la homojn kaj transdoni la gemojn de la sciado al la popolo de Dio. Li atingis siavice la rangon de martiro en Ṭihrán.
 
 ‘Aka Muḥammad ‘Alí el Tabriz (Mirzo aŭ mulao)
 : Li devenis el nobla familio el Tabriz. Li estis ekzekutita kune kun Báb. Rig.: Nabil: »The Dawn Breakers.«
@@ -112,7 +112,7 @@ Athím
 : Alia nomo de ‘Akká.
 
 ‘Aválim
-: ‘Aválim Janbú. Kompilaŕo de la ŝianaj tradicioj. La principoj de la ŝianoj, publikigitaj en ṭihrán.
+: ‘Aválim Janbú. Kompilaŕo de la ŝianaj tradicioj. La principoj de la ŝianoj, publikigitaj en Ṭihrán.
 
 ‘A’zim
 : Laŭvorte: »Granda«.
@@ -229,7 +229,7 @@ Fátimih (Libro de)
 : La ŝianoj kredas, ke post la ĉieleniro de Mahometo Fátimih lamentis kaj ploris la sorton de sia eminenta patro. Tial estis ordonite de la Plej Glora Sinjoro al Jabrá‘il (Gabrielo) paroli kun Fátimih, kaj li parolis vortojn, kiuj konsolis kaj kvietigis ŝian koron. Tiuj ĉi vortoj estas kolektitaj kaj titolitaj: »Libro de Fátimih«. La ŝianoj kredas, ke tiu ĉi libro estas for kun Lia Alteco Qá’im (Imám Mahdí), kaj ke ĝi aperos en la tago de loia apero.
 
 Fortikaŕo Kinar Gird
-: Stacio ĉe la malnova Isfahani-Vojo, ĉirkaŭ 28 kilometrojn de ṭihrán.
+: Stacio ĉe la malnova Isfahani-Vojo, ĉirkaŭ 28 kilometrojn de Ṭihrán.
 
 Há
 : La litero »H«; la nombro – »5«
@@ -259,7 +259,7 @@ Hiacinto
 : Rozo, Najtingalo: Esprimoj, uzataj de Bahá’u’lláh kiel simboloj de la Malkaŝantoj de Dio.
 
 Hín
-: Laŭ la Abjada kalkulo la nombra valoro de ĉi tiu vorto estas 68. En la jaro 1268 A.H. okazis, ke al Bahá, malliberigita en Síyáh-Chál en ṭihrán, konigita estis unue Lia Dia Misio. Li aludaas al tio en la odoj, kiujn Li verkis en tiu jaro.
+: Laŭ la Abjada kalkulo la nombra valoro de ĉi tiu vorto estas 68. En la jaro 1268 A.H. okazis, ke al Bahá, malliberigita en Síyáh-Chál en Ṭihrán, konigita estis unue Lia Dia Misio. Li aludaas al tio en la odoj, kiujn Li verkis en tiu jaro.
 
 Húd
 : (Korano, XI) (La Surao pri Húd.) ‘Ad kaj Thamúd, menciitaj de Ptolomeo, estis du gentoj de la antikvaj araboj, malaperintaj en la tempo de Mahometo. Popularo tradicio atribuas ilian malaperon al venĝo de Dio.
@@ -267,7 +267,7 @@ Húd
 Hurisoj
 : Anĝeloj. (»Belegaj virgulinoj kiuj, laŭ Islamo, estas kunulinoj de la fideluloj en paradizo.«) »Kiujn neniu homo, nek spirito, tuŝis antaŭe.«
 
-ḥusayn
+Ḥusayn
 : La tria Imámo, filo de ‘Alí kaj Fatimih.
 
 Ibn-i-Súríyá
@@ -279,9 +279,11 @@ Ibn  Míhríyar
 Ibn Rúh ḥusayn (Abu’l-Kasim al Husain ibn Rúh)
 : Li estis sankta shaykh kaj unu el la pordoj, kondukantaj al Sáhíb az Zamán (la Sinjoro de Tempo) aŭ la lasta granda Imámo, laŭ la ŝiana doktrino. Li estis elektita de Abú‘ Ja‘afar Muḥammad ibn Othmán al Omari kiel lia leŭtenanto, kaj kiam la lasta klasifikis la ŝianojn laŭ iliaj rangoj, ‘Abu’l-Kasím ricevis la rajton aperadi antaŭ li la unua el ĉiuj.
 
-Ibn-i-Zíyád >
+Ibn-i-Zíyád
+: TODO #1
 
-Ibn-i-Sa‘d > Persekutantoj de la idaro de Mahometo.
+Ibn-i-Sa‘d
+: Persekutantoj de la idaro de Mahometo.
 
 »Idhá’«
 : Signifas »se« aŭ »kiam«.
@@ -290,42 +292,19 @@ Il
 : »Gento.«
 
 Imám (Imamo)
-: La titolo de la dekdu ŝianaj postsekvintoj de Mahometo. Ankaŭ uzata ĝenerale rilate al la religiaj gvidantoj de Islamo. La dekdu Imamoj (rig.: Imameco, la »Eklezio de la Dekdu«) estas:
-
-1.        ‘Alí ibn Abí Jálib
-: kuzo kaj la unua disĉiplo de la Profeto. Li estis edzigita kun Fátimih, filino de Mahometo. (A.H. 40- A.D. 661.)
-
-2.        Hasan
-: filo de ‘Alí kaj Fátimih. (A.H. 50 – A.D. 670)
-
-3.        ḥusayn
-: filo de ‘Alí kaj Fátimih. (A.H. 61 – A.D. 680)
-
-4.        ‘Alí
-: filo de ḥusayn kaj Shahrbánú (filino de la lasta Sasamana reĝo), nomata ĝenerale Zeynu’l-Abidibín.
-
-5.        Muḥammad Bákir
-: filo de Zeynu’l-Abidín kaj de filino de Imámo ḥasan.
-
-6.        Ja‘far-i-Sádiq
-: filo de Imám Muḥammad Bákir.
-
-7.        Músá Kázim
-: filo de Imám Ja‘far-i-Sádiq.
-
-8.        ‘Alí’ ibn Músá er-Rizá, nomata ĝenerale Imám Rizá. (A.H. 203)
-
-9.        Muḥammad Takí
-: filo de Imám Rizá. (A.H. 195-A.H. 254)
-
-10.     ‘Alí Takí
-: filo de Imám Muḥammad Takí. (A.H. 232-A.H. 254)
-
-11.     Hasan’ Askarí
-: filo de Imám ‘Alí Takí. (A.H. 232-A.H. 260)
-
-12.     Muḥammad
-:  filo de Imám Hasan Askarí kaj Narrjiis Khátún, nomata de la ŝianoj »Imám Mahdí Hujjalu’lláh« (la »Pruvo de Dio«). »Bakeyyatu’lláh« (la »Postkreskinto de Dio«), »Qá’im-i-al-i-Muḥammad« (»Naskiĝonta el la familio de Mahometo«).
+ : La titolo de la dekdu ŝianaj postsekvintoj de Mahometo. Ankaŭ uzata ĝenerale rilate al la religiaj gvidantoj de Islamo. La dekdu Imamoj (rig.: Imameco, la »Eklezio de la Dekdu«) estas:
+ : 1. **‘Alí ibn Abí Jálib**, kuzo kaj la unua disĉiplo de la Profeto. Li estis edzigita kun Fátimih, filino de Mahometo. (A.H. 40- A.D. 661.)
+ : 2. **Hasan**, filo de ‘Alí kaj Fátimih. (A.H. 50 – A.D. 670)
+ : 3. **Ḥusayn**, filo de ‘Alí kaj Fátimih. (A.H. 61 – A.D. 680)
+ : 4. **‘Alí**, filo de ḥusayn kaj Shahrbánú (filino de la lasta Sasamana reĝo), nomata ĝenerale Zeynu’l-Abidibín.
+ : 5. **Muḥammad Bákir**, filo de Zeynu’l-Abidín kaj de filino de Imámo ḥasan.
+ : 6. **Ja‘far-i-Sádiq**, filo de Imám Muḥammad Bákir.
+ : 7. **Músá Kázim**, filo de Imám Ja‘far-i-Sádiq.
+ : 8. **‘Alí’ ibn Músá er-Rizá**, nomata ĝenerale Imám Rizá. (A.H. 203)
+ : 9. **Muḥammad Takí**, filo de Imám Rizá. (A.H. 195-A.H. 254)
+ : 10. **‘Alí Takí**, filo de Imám Muḥammad Takí. (A.H. 232-A.H. 254)
+ : 11. **Hasan’ Askarí**, filo de Imám ‘Alí Takí. (A.H. 232-A.H. 260)
+ : 12. **Muḥammad**, filo de Imám Hasan Askarí kaj Narrjiis Khátún, nomata de la ŝianoj »Imám Mahdí Hujjalu’lláh« (la »Pruvo de Dio«). »Bakeyyatu’lláh« (la »Postkreskinto de Dio«), »Qá’im-i-al-i-Muḥammad« (»Naskiĝonta el la familio de Mahometo«).
 
 Imámeco (la doktrino pri)
 :  La ĉefa punkto de diferenco inter la ŝianoj kaj la sunnanoj. Laŭ la imama iserto la vic-aŭtoritato estas afero tute spirita kaj rango, donata sole de Dio, unue pere de Lia Profeto, kaj poste pere de tiuj, kiuj Lin postsekvis. Ĝi havas nenion komunan kun la ĝenerala elekto, kiel komprenas la aferon de sunnanoj. La ĝenerala esprimo »Imameco« koncernas ĉiujn, kiuj estas partianoj de tiu ĉi teorio, sendepende de la maniero, laŭ kiu ili prezentas la postsekvon.
@@ -340,7 +319,7 @@ Imám-Zádíh
 : Posteulo de Imamo, aŭ lia tombosanktejo.
 
 Imám-Zádúh-Hasan
-: Loka tombosanktejo en ṭihrán.
+: Loka tombosanktejo en Ṭihrán.
 
 Imám-Jum’h
 : La ĉefa imamo en la urbo; ĉefo de la mulaoj.
@@ -351,14 +330,11 @@ Imám-Jum’h
 Íqán
 : Laŭvorte: »certeco« (Rig.: Kitáb-i-Íqán.)
 
-‘Iráq (Irako):
-
-1.        (Ajemi). Centra provinco de Persujo, ebena lando, la antikva Medujo. Ĝia ĉefurbo etas ṭihrán (Teherano)
-
-2.        Esprimo, uzata de Bahá’u’lláh, por simboligi la persan lingvon.
-
-3.        ‘Iráq-Arabí
-: Suda regiono de la azia Turkujo, ĉirkaŭaŕo de Baghdád kaj Bossora, kuŝanta inter la riveroj Tigro kaj Eŭfrato. La antikva Babilonio.
+‘Iráq (Irako)
+ : 
+ : 1. (Ajemi). Centra provinco de Persujo, ebena lando, la antikva Medujo. Ĝia ĉefurbo etas Ṭihrán (Teherano)
+ : 2. Esprimo, uzata de Bahá’u’lláh, por simboligi la persan lingvon.
+ : 3. **‘Iráq-Arabí**, Suda regiono de la azia Turkujo, ĉirkaŭaŕo de Baghdád kaj Bossora, kuŝanta inter la riveroj Tigro kaj Eŭfrato. La antikva Babilonio.
 
 Irshádu’l-Avám
 : »Gvidilo por sensciuloj.« Libro, verkita de Karim, kiu afektis grandan instruitecon, sed estis nur pretendemulo kaj egoisto.
@@ -382,7 +358,7 @@ Jabal-i-Básit
 : Laŭvorte: »la malfermita Monto«, aludo al »Máh-Kú«, kies Báb estis malliberigita.
 
 Jabal-i-Shadid
-: Laŭvorte: »La Malĝoja Monto« (la nombra valoro de la vorto Shadid estas 318, same kiel de Chihríq). Aludo al Chihríq (laŭ »Travellers’ Narrative« Báb restis tri monatojn en la kastelo de Chihríq, antaŭ ol Li estis kondukita ṭihránon por esti esploraata).
+: Laŭvorte: »La Malĝoja Monto« (la nombra valoro de la vorto Shadid estas 318, same kiel de Chihríq). Aludo al Chihríq (laŭ »Travellers’ Narrative« Báb restis tri monatojn en la kastelo de Chihríq, antaŭ ol Li estis kondukita Ṭihránon por esti esploraata).
 
 Jábulká (Okcidento) kaj Jábulsa (Oriento)
 : Du mistikaj urbon. »En la plej ekstrema parto de la oriento estas urbo, kies nomo estas Jábars, kaj kies loĝantoj devenas de la idoj de Thamúd. Kaj en la plej ekstrema parto de la okcidento estas urbo, kies nomo estas Jabalk, kaj kies loĝantoj devenas de la idoj de ‘Ad.« (Rig.: La Surao pri Húd, Korano XI).
@@ -412,14 +388,10 @@ Kad-Khuda
 : Ĉefo de kvartalo aŭ paroĥo en la urbo; vilaĝestro.
 
 Káfí (Usúl-i-Káfí)
-: (Rawdiy-i-Káfí)
-
-1.        Kompilaŕoj de la mahometanaj ŝianaj tradicioj.
-
-2.        »Káfí,« menciita en la »tradicio de Jábir« en la »Tabuleto de Fátimih.«
-
-3.        »Rawdiy-i-Káfí«, estas rakontite rilate al »Zawra«, pri Mu‘Aviyih, filo de Vahhláb, al kiu Abú ‘Abdilláh diris
-: »Ĉu vi konas Zawram?« oni diras, ke ĝi estas Baghdád. (Nabil: »The Dawn Breakers«)
+ : (Rawdiy-i-Káfí)
+ : 1. Kompilaŕoj de la mahometanaj ŝianaj tradicioj.
+ : 2. »Káfí,« menciita en la »tradicio de Jábir« en la »Tabuleto de Fátimih.«
+ : 3. »Rawdiy-i-Káfí«, estas rakontite rilate al »Zawra«, pri Mu‘Aviyih, filo de Vahhláb, al kiu Abú ‘Abdilláh diris: »Ĉu vi konas Zawram?« oni diras, ke ĝi estas Baghdád. (Nabil: »The Dawn Breakers«)
 
 Kalantar
 : Majoro
@@ -565,9 +537,11 @@ Najaf
 Namáz-Khánin
 : Laŭvorte: »preĝodomo«.
 
-Násikhu’t-Tawáríth >
+Násikhu’t-Tawáríth
+: TODO #1
 
-Rawzatus-safa > Historio kompilita de generalo Musulman, historiisto. Historio, verkita de Mírzá Takí Mustawfí.
+Rawzatus-safa
+: Historio kompilita de generalo Musulman, historiisto. Historio, verkita de Mírzá Takí Mustawfí.
 
 Nimrod
 : Gen., 10,9. (Persekutinto de Abraham). Laŭ la orientaj legendoj li estis nepo de Ĥam. Li estis potenca ĉasisto; tial tiu ĉi nomo estas donota al ĉasistoj, famaj pro siaj sukcesoj.
@@ -584,15 +558,12 @@ Nudbih
 Nuzejria religio
 : Religio ĝenerala precipe inter la migrantaj gentoj de Persujo.
 
-Párán (Monto) (Araba
-: Faran): Tombo de Teman-Teman; hebrea esprimo por »Tempo«, kaj uzata kiel simbolo de Eterneco.
-
-»Dio venas de Teman, la Sanktulo de la monto Paran, Selah aŭ Sálih (Justa Profeto). Lia majesto kovras la ĉielon, kaj Lia gloro plenigas la teron.« (Ĥabakuk, 3,3).
-
-»Li diris
-: la Eternulo venis de Sinaj kaj eklumis al ili de Seir; Li ekbrilis de la monto Paran kaj venis kun milmiloj da sanktuloj; ĉe Lia dekstra flanko estas fajro de leĝo por ili.« (Re-adm. 33)
-
-Teman aŭ Zeman, kio signifas »la tempodaŭro de Dio« estas denove starigita »en la Tempo« – »el la sentempa Tempo, Tempo sen komenco aŭ fino, kaj Dio faris interligon kun la homo denove en la Tempo kaj loko en Palestino.«
+Párán (Monto) (Araba: Faran)
+ : Tombo de Teman-Teman; hebrea esprimo por »Tempo«, kaj uzata kiel simbolo de Eterneco.
+ : »Dio venas de Teman, la Sanktulo de la monto Paran, Selah aŭ Sálih (Justa Profeto). Lia majesto kovras la ĉielon, kaj Lia gloro plenigas la teron.« (Ĥabakuk, 3,3).
+ : »Li diris: la Eternulo venis de Sinaj kaj eklumis al ili de Seir; Li ekbrilis de la monto Paran kaj venis kun milmiloj da sanktuloj; ĉe Lia dekstra flanko estas fajro de leĝo por ili.« (Re-adm. 33)
+ : 
+ : Teman aŭ Zeman, kio signifas »la tempodaŭro de Dio« estas denove starigita »en la Tempo« – »el la sentempa Tempo, Tempo sen komenco aŭ fino, kaj Dio faris interligon kun la homo denove en la Tempo kaj loko en Palestino.«
 
 Punkto de Bayán
 : Báb
@@ -613,7 +584,7 @@ Raqshá’
 : Signifas laŭvorte »serpentino«. La nomo, donita de Bahá’u’lláh al la frato de Sultanu’l-‘Ulamá, kiu per sovaĝa krueleco (en la lastaj jaroj) gajnis al si tiun ĉi nomon. (Nabil: »The Dawn Breakers«)
 
 Rayy
-: Antikva urbo, proksime de kiu konstruita estas ṭihráno. (Nabil: »The Dawn Breakers«)
+: Antikva urbo, proksime de kiu konstruita estas Ṭihráno. (Nabil: »The Dawn Breakers«)
 
 Riḍváno
 : La nomo de gardanto de l’ paradizo. Bahá’u’lláh uzas ĝin en la senco de la paradizo mem. – Ankaŭ ĝardeno de Bahá’u’lláh proksime de ‘Akká.
@@ -694,10 +665,10 @@ Sirat
 : Laŭvorte: »ponto« aŭ »vojo«; ĝi signifas la religion de Dio.
 
 Siyáh-Chál
-: Laŭvorte: »Nigra Kavo«. La nomo de la malliberejo en ṭihrán, kie Bahá’u’lláh estis tenata. Komence ĝi estis akvotenejo de unu el la publikaj banejoj en ṭihrán. Tio estas subtera malliberejo, kie oni tenadis krimulojn de plej malbona kategorio. (Nabil: »The Dawn Breakers«)
+: Laŭvorte: »Nigra Kavo«. La nomo de la malliberejo en Ṭihrán, kie Bahá’u’lláh estis tenata. Komence ĝi estis akvotenejo de unu el la publikaj banejoj en Ṭihrán. Tio estas subtera malliberejo, kie oni tenadis krimulojn de plej malbona kategorio. (Nabil: »The Dawn Breakers«)
 
 Siyyid Áká ḥusayn-i-Turshízí
-: La mujtahid de Turshíz. Li estis unu el la »sep martiroj«. Li estis arestita en ṭihrán post sia reveno al Karbilá.
+: La mujtahid de Turshíz. Li estis unu el la »sep martiroj«. Li estis arestita en Ṭihrán post sia reveno al Karbilá.
 
 Siyyid Káẓim-i-Rashtí
 : Disĉiplo kaj postsekvinto de Shaykh Aḥmad. Dum la lastaj jaroj de sia vivo li paroladis, same kiel preleganto kaj kiel predikanto, pri la promesita Pruvo, pri la signoj de Lia alveno kaj ties interpretado, kaj priparolis la kvalitojn de la Majstro de la Nova Revelacio, insiste proklamante, ke Li devas esti junulo, ke Li ne devas posedi la homan instruitecon kaj keLi devas esti el la gento de Háshim. Post sia revena el Surra-man-na’a la respektinda Siyyid finis la vivon.
@@ -715,15 +686,15 @@ Surao
 : Laŭvorte: »sekvantoj«. Unu el la du grandaj religiaj skoloj de Islamo, la ŝianoj kaj la sunnanoj.
 
 Tá (la lando de)
-: ṭihrán (Arz-i-akdas. »la Sankta Lando«).
+: Ṭihrán (Arz-i-akdas. »la Sankta Lando«).
 
-ṭaff
-: ṭihrán.
+Ṭaff
+: Ṭihrán.
 
 Tajallíyát
 : Laŭvorte: »Brilegoj«. La titolo de unu el la Tabuletoj de Bahá’u’lláh.
 
-ṭarázát
+Ṭarázát
 : Laŭvorte: »Ornamoj«. La titolo de unu el la Tabuletoj de Bahá’u’lláh.
 
 Táríkh-i-Jadíd
@@ -732,7 +703,7 @@ Táríkh-i-Jadíd
 Thamúd (Talmudo)
 : Kolekto de la hebreaj civilaj kaj religiaj leĝoj, ne entenataj en la Kvinlibro. Ĝenerale ĝi konsistas el Miŝno kaj Gemaro, sed iafoje estos limigita nur al la lasta. Ĝi ekzistas en du grandaj kolektoj, la palestina Talmudo kaj la Talmudo de la lando de Izrael.
 
-ṭihrán (Teherano)
+Ṭihrán (Teherano)
 : La ĉefurbo de Persujo.[181]
 
 Tumano
@@ -751,7 +722,7 @@ Valí-‘Ahd
 : Kronprinco.
 
 Varaqatu’l-Firdaws
-: Fratino de Mullá ḥusayn; ŝi estis en Karbilá en proksimaj rilatoj kun ṭáhirih (Qurratu’l-‘Ayn).
+: Fratino de Mullá ḥusayn; ŝi estis en Karbilá en proksimaj rilatoj kun Ṭáhirih (Qurratu’l-‘Ayn).
 
 Varaqatu’l-‘Ulyá
 : Laŭvorte: »La Plej Altglora Folio«. La titolo, donata al la edzino de Bahá’u’lláh, la patrino de la »Plej Granda Branĉo«, ‘Abdu’l-Bahá.
@@ -778,10 +749,8 @@ Yathrib
 : Alia nomo de Medino. Yathrib estas nomo malnova; ĝi estis nomita »El Medinah«, »la urbo«, nur post kiam ĝi famiĝis, doninte rifuĝon al Mahometo.
 
 Zanján
-: Ĉefurbo de la provinco Khamsih, unu el la unuaj provincoj, kiuj akceptis la instruojn de Báb. Poste okazis la sieĝo kaj la amasbuĉo de la babanoj en Zanján.
-
-»La provinco oriente de Kaflan-Kúh, inter Irako kaj Ádhirbáyján. Ĝia ĉefurbo, Zanján, estas ĉirkaŭita per muro, ornamita per multaj turetoj, kiel estas kutime en Persujo, kaj prezentas tre pentrindan kaj belan vidaŕon. La loĝantaro konsistas el turkoj, kaj, escepte de la registaraj oficistoj, ooni malmulte aŭdas la persan lingvon.« (Nabil
-: »The Dawn Breakers«. Comte de Gobineau: »Les Religions et les Philosophies dans l’ Asie Central.«)
+ : Ĉefurbo de la provinco Khamsih, unu el la unuaj provincoj, kiuj akceptis la instruojn de Báb. Poste okazis la sieĝo kaj la amasbuĉo de la babanoj en Zanján.
+ : »La provinco oriente de Kaflan-Kúh, inter Irako kaj Ádhirbáyján. Ĝia ĉefurbo, Zanján, estas ĉirkaŭita per muro, ornamita per multaj turetoj, kiel estas kutime en Persujo, kaj prezentas tre pentrindan kaj belan vidaŕon. La loĝantaro konsistas el turkoj, kaj, escepte de la registaraj oficistoj, ooni malmulte aŭdas la persan lingvon.« (Nabil: »The Dawn Breakers«. Comte de Gobineau: »Les Religions et les Philosophies dans l’ Asie Central.«)
 
 Zaqqúm (arbo)
 : Laŭvorte: »la infera arbo«.
