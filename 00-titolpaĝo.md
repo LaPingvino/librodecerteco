@@ -5,10 +5,12 @@ documentclass: article
 papersize: a5
 ---
 
-La Kitáb-i-Íqán de Bahá'u'lláh
-
-laŭ la angla traduko de SHOGHI EFFENDI
-
-esperantigis Lidia Zamenhof
+\
 
 PROVLEGA VERSIO
+
+\
+
+La Kitáb-i-Íqán de Bahá'u'lláh\
+laŭ la angla traduko de SHOGHI EFFENDI\
+esperantigis Lidia Zamenhof
