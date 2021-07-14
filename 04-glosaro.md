@@ -112,7 +112,7 @@ Athím
 : Alia nomo de ‘Akká.
 
 ‘Aválim
-: ‘Aválim Janbú. Kompilaŕo de la ŝianaj tradicioj. La principoj de la ŝianoj, publikigitaj en Ṭihrán.
+: ‘Aválim Janbú. Kompilaĵo de la ŝianaj tradicioj. La principoj de la ŝianoj, publikigitaj en Ṭihrán.
 
 ‘A’zim
 : Laŭvorte: »Granda«.
@@ -142,7 +142,7 @@ Báboj
 : »Pordoj«. Titolo donita al tiuj, kiuj komunikiĝis kun la Dekdua Imámo (Imám Mahdí) dum lia aparteco aŭ »Kaŝiteco«. La unua el tiuj pordoj estis Abu ‘Umar ‘Othmán ibn Sa‘íd ‘Umarí; la dua Abú Ja‘far Muḥammad ibn ‘Othmán; la tria ḥusayn ibn Rúh Nawbakhti; la kvara: Abú’l-Hasan ‘Alí ibn Muḥammad Símarí. El tiuj ĉi »Pordoj« la unua estis nomita de Imám Hasan ‘Askarí, kaj la aliaj de la funkcianta tiam »Pordo« kun la sankcio de Imám Mahdí.
 
 Badí
-: Li portis la tabuleton de Bahá’u’lláh al la ŝaho Náṣiri’d-Dín. Li enviciĝis sub la standardon de Mullá ḥusayn. Li estis unu el la tridek loĝantoj de la vilaĝo Mijámay, kiuj deklaris sian kredon kaj aliĝis al la kredantaro; li iĝis martio en la fortikaŕo de Shaykh Tabarsí.
+: Li portis la tabuleton de Bahá’u’lláh al la ŝaho Náṣiri’d-Dín. Li enviciĝis sub la standardon de Mullá ḥusayn. Li estis unu el la tridek loĝantoj de la vilaĝo Mijámay, kiuj deklaris sian kredon kaj aliĝis al la kredantaro; li iĝis martio en la fortikaĵo de Shaykh Tabarsí.
 
 Baghdád
 : Regiono en la sudorienta Mezopotamio. La lando inter la riveroj Tigro kaj Eŭfrato (nordokcidente de Babilono kaj sudokcidente de Asirio). La 23an de aŭg. 1921 ĝi estis proklamita ĉefurbo de Irako.
@@ -157,7 +157,7 @@ Bahaano (Bahá’í)
 : Sekvanto de Bahá’u’lláh.
 
 Bahjí
-: Laŭvorte: »plezuro«. Ĝi rilatas al tiu parto de la Ebenaŕo de ‘Akká, kie trovas sin la Tombo kaj domo de Bahá’u’lláh.
+: Laŭvorte: »plezuro«. Ĝi rilatas al tiu parto de la Ebenaĵo de ‘Akká, kie trovas sin la Tombo kaj domo de Bahá’u’lláh.
 
 Bani-Háshim
 : La familio el kiu devenis Mahometo.
@@ -175,10 +175,10 @@ Big
 : Honora titolo, malpli alta, ol la titolo »Khán«.
 
 Bihar (Usu‘l-i-Kafí kaj Biharu‘l-Anvar)
-: Kompilaŕo de la ŝianaj tradicioj.
+: Kompilaĵo de la ŝianaj tradicioj.
 
 Biháru’l Anvár
-: Avalím Yanbú »Principoj de la ŝianoj«, kompilaŕo de la tradicioj, verkita de Ja‘far-i-Sadíq (la sesa Imámo), nomato la fondinto de la ŝiana kredo.
+: Avalím Yanbú »Principoj de la ŝianoj«, kompilaĵo de la tradicioj, verkita de Ja‘far-i-Sadíq (la sesa Imámo), nomato la fondinto de la ŝiana kredo.
 
 »Blanka Vojo«
 : Simobole: la Religio de Dio.
@@ -228,7 +228,7 @@ Fátimih
 Fátimih (Libro de)
 : La ŝianoj kredas, ke post la ĉieleniro de Mahometo Fátimih lamentis kaj ploris la sorton de sia eminenta patro. Tial estis ordonite de la Plej Glora Sinjoro al Jabrá‘il (Gabrielo) paroli kun Fátimih, kaj li parolis vortojn, kiuj konsolis kaj kvietigis ŝian koron. Tiuj ĉi vortoj estas kolektitaj kaj titolitaj: »Libro de Fátimih«. La ŝianoj kredas, ke tiu ĉi libro estas for kun Lia Alteco Qá’im (Imám Mahdí), kaj ke ĝi aperos en la tago de loia apero.
 
-Fortikaŕo Kinar Gird
+Fortikaĵo Kinar Gird
 : Stacio ĉe la malnova Isfahani-Vojo, ĉirkaŭ 28 kilometrojn de Ṭihrán.
 
 Há
@@ -334,7 +334,7 @@ Imám-Jum’h
  : 
  : 1. (Ajemi). Centra provinco de Persujo, ebena lando, la antikva Medujo. Ĝia ĉefurbo etas Ṭihrán (Teherano)
  : 2. Esprimo, uzata de Bahá’u’lláh, por simboligi la persan lingvon.
- : 3. **‘Iráq-Arabí**, Suda regiono de la azia Turkujo, ĉirkaŭaŕo de Baghdád kaj Bossora, kuŝanta inter la riveroj Tigro kaj Eŭfrato. La antikva Babilonio.
+ : 3. **‘Iráq-Arabí**, Suda regiono de la azia Turkujo, ĉirkaŭaĵo de Baghdád kaj Bossora, kuŝanta inter la riveroj Tigro kaj Eŭfrato. La antikva Babilonio.
 
 Irshádu’l-Avám
 : »Gvidilo por sensciuloj.« Libro, verkita de Karim, kiu afektis grandan instruitecon, sed estis nur pretendemulo kaj egoisto.
@@ -375,8 +375,8 @@ Jazíray-i-Khadrá
 Jenáb-i-Bahá
 : La titolo, per kiu Bahá’u’lláh estis nomata antaŭ la martirigo de Báb.
 
-Júdí (La Smeralda Montaŕo)
-: Malkorekta formo de Monto Giordi, la greka Gordyall, kuŝanta inter Armenujo kaj Mezopotamio. Uzata simbole (la Smeralda Montaŕo). Tiu ĉi montaŕo estas tre malfacile trapasebla.
+Júdí (La Smeralda Montaĵo)
+: Malkorekta formo de Monto Giordi, la greka Gordyall, kuŝanta inter Armenujo kaj Mezopotamio. Uzata simbole (la Smeralda Montaĵo). Tiu ĉi montaĵo estas tre malfacile trapasebla.
 
 Kabir
 : Laŭvorte: »granda«.
@@ -389,7 +389,7 @@ Kad-Khuda
 
 Káfí (Usúl-i-Káfí)
  : (Rawdiy-i-Káfí)
- : 1. Kompilaŕoj de la mahometanaj ŝianaj tradicioj.
+ : 1. Kompilaĵoj de la mahometanaj ŝianaj tradicioj.
  : 2. »Káfí,« menciita en la »tradicio de Jábir« en la »Tabuleto de Fátimih.«
  : 3. »Rawdiy-i-Káfí«, estas rakontite rilate al »Zawra«, pri Mu‘Aviyih, filo de Vahhláb, al kiu Abú ‘Abdilláh diris: »Ĉu vi konas Zawram?« oni diras, ke ĝi estas Baghdád. (Nabil: »The Dawn Breakers«)
 
@@ -418,7 +418,7 @@ Khasa’il-i-Sab‘ih
 : Laŭvorte: »sep kvalifikoj«. Traktato, en kiu Báb prezentis la esencajn ecojn, postulatajn de tiuj, kiuj atingis la konon de la Nova Revelacio kaj rekonis tion, kion ĝi atribuas al si.
 
 Khaybar
-: Indiĝena provinco de Punjab. La Khaybara Pasejo. La ĉefa pasejo inter Hindujo kaj Afganlando. Dek mejlojn for de la Peshawar la vojo mallarĝiĝas ĝis malpli ol dudek futoj laŭlonge de krutaŕo, kaj tial ĝi havas grandegan strategian signifon. (Rig.: Korano LXVIII,15 – la militiro de Mahometo kontraŭ la judoj de Khaybar).
+: Indiĝena provinco de Punjab. La Khaybara Pasejo. La ĉefa pasejo inter Hindujo kaj Afganlando. Dek mejlojn for de la Peshawar la vojo mallarĝiĝas ĝis malpli ol dudek futoj laŭlonge de krutaĵo, kaj tial ĝi havas grandegan strategian signifon. (Rig.: Korano LXVIII,15 – la militiro de Mahometo kontraŭ la judoj de Khaybar).
 
 Khutbíy-i-Qahriyyih
 : Laŭvorte: »Prediko de Kolero.« Ĝi koncernas leteron, skribitan de Báb al la ŝaho Muḥammad, malkaŝantan la karakteron de Hájí Mírzá Aqásí. (Nabil: »The Dawn Breakers«)
@@ -445,7 +445,7 @@ Kúfih
 : (Hamzih) »La Princo de Martiroj«, la titolo de onklo de Mahometo. (Rig.: Hamzih).
 
 Kull-i-Shay
-: »ĉiuj aŕoj.« La nombra valoro de tiu ĉi vorto estas 361 aŭ 19 x 19.
+: »ĉiuj aĵoj.« La nombra valoro de tiu ĉi vorto estas 361 aŭ 19 x 19.
 
 Kullu’t-Ta‘ám
 : Komentario pri la korana verso III,93, verkita de Bahá’u’lláh en Baghdád, honoranta Quddúson, la unuan martiro, kiun Báb kaj Bahá’u’lláh priploris en multaj Tabuletoj kaj preĝoj, kaj al kiu ili malŝparis laŭdovortojn. (Nabil: »The Dawn Breakers«).
@@ -490,7 +490,7 @@ Mullá Mihdíy-i-Kandi
 : Unu el la ekleziuloj el la Shaykhí pario, kiu serĉis tiun senkomparan personon, kiu, laŭ ilia terminaro, estis la »Kvara Subtenanto« kaj centra malkaŝanto de la vero de la klara Religio (Islamo). Li akceptis poste la Aferon de Báb. Li estas menciita sur la listo de eminentulaj martiroj , troviĝanta en Tárikh-i-Jadíd. (»Travellers’ Narrative«).
 
  Mullá Báqir
-: Unu el la unuaj partianoj de Báb. Antaŭ la ekiro al Chihríq al Tabríz Báb konfidis al li speciale preparitan skatolon, entenantan Liajn skribaŕojn, Lian ringon kaj plumojn, metis la ŝlosilon de la skatolo en koverton kajkomisiis al Mullá Báqir transdoni tiun ĉi altvaloran konfidaŕon al Mullá Kárim el Kazvín. (»Travellers’ Narrative«).
+: Unu el la unuaj partianoj de Báb. Antaŭ la ekiro al Chihríq al Tabríz Báb konfidis al li speciale preparitan skatolon, entenantan Liajn skribaĵojn, Lian ringon kaj plumojn, metis la ŝlosilon de la skatolo en koverton kajkomisiis al Mullá Báqir transdoni tiun ĉi altvaloran konfidaĵon al Mullá Kárim el Kazvín. (»Travellers’ Narrative«).
 
 Mullá Ni’Matu’llah-i-Mazindarání
 : Fervora partiano de Báb. Li estis martirigita post la sieĝo de Shaykh Tabarsi.
@@ -578,7 +578,7 @@ Qurbán (Qurbán ‘Alí)
 : La nomo de derviŝo, kiu fordonis sian vivon por la Afero de Báb. Li estis unu el la »Sep Martiroj«. »Qurbán« signifas laŭvorte »ofero« – pro tio li estis ofero por Báb.
 
 Qayyúmu’l-Asmá
-: Komentario pri la »Surao pri Jozefo«. La unua libro, verkita de Báb. Unu el la plej bone konataj citaŕoj el tiu ĉi libro estas: »Ho Vi, Postrestinto de Dio,« k.t.p.
+: Komentario pri la »Surao pri Jozefo«. La unua libro, verkita de Báb. Unu el la plej bone konataj citaĵoj el tiu ĉi libro estas: »Ho Vi, Postrestinto de Dio,« k.t.p.
 
 Raqshá’
 : Signifas laŭvorte »serpentino«. La nomo, donita de Bahá’u’lláh al la frato de Sultanu’l-‘Ulamá, kiu per sovaĝa krueleco (en la lastaj jaroj) gajnis al si tiun ĉi nomon. (Nabil: »The Dawn Breakers«)
@@ -593,7 +593,7 @@ Rik‘atoj
 : Terenkliniĝoj dum preĝo.
 
 ‘Ruz’-bih (poste nomita Salmán)
-: Unu el la kvar homoj, kiuj sinsekve anoncis al la araba popolo la ĝojan novaŕon pri la alveno de Mahometo.
+: Unu el la kvar homoj, kiuj sinsekve anoncis al la araba popolo la ĝojan novaĵon pri la alveno de Mahometo.
 
 Sád
 : Alia esprimo por Isfáhán.
@@ -677,7 +677,7 @@ Siyyid Yahyá el Darab
 : Fama doktoro kaj Siyyid, objekto de granda respekto. Lli estis delegito de la ŝaho Muḥammad por esplori la pretendojn, voĉatajn de Báb. Li ekkredis je Báb kaj estis mortigita pro sia kredo (sufokita per la propra zono) post la ribelo de Niriz.
 
 Sufioj
-: Klaso de mahometanaj mistikuloj, speciale en Persujo. La pieco de la sufioj estas miskaŕo de asketismo kaj gnosticismo, kiu ofte aperas en panteista aŭ teozofia formo, kaj kiu estis inspiro por amaso da religia poezio.
+: Klaso de mahometanaj mistikuloj, speciale en Persujo. La pieco de la sufioj estas miskaĵo de asketismo kaj gnosticismo, kiu ofte aperas en panteista aŭ teozofia formo, kaj kiu estis inspiro por amaso da religia poezio.
 
 Surao
 : La nomo de la ĉapitroj de la Korano.
@@ -734,7 +734,7 @@ Varaqiy-i-‘Ulyá
 : »Ho Sinjoro de la Tempo!« Unu el la titoloj de la promesita Qá’im.
 
 Yaḥyá (filo de Zaĥario kaj Elizabeto)
-: Yaḥyá signifas Johano. Johano la Baptisto anoncis al la popolo de Izrael la ĝojan novaŕon pri la alveno de Kristo.
+: Yaḥyá signifas Johano. Johano la Baptisto anoncis al la popolo de Izrael la ĝojan novaĵon pri la alveno de Kristo.
 
 Yaḥyá (Mírzá) (ṣubh-i-Azal)
 : Dunonfrato de Bahá’u’lláh, kiu perfidis Lian Aferon.
@@ -750,7 +750,7 @@ Yathrib
 
 Zanján
  : Ĉefurbo de la provinco Khamsih, unu el la unuaj provincoj, kiuj akceptis la instruojn de Báb. Poste okazis la sieĝo kaj la amasbuĉo de la babanoj en Zanján.
- : »La provinco oriente de Kaflan-Kúh, inter Irako kaj Ádhirbáyján. Ĝia ĉefurbo, Zanján, estas ĉirkaŭita per muro, ornamita per multaj turetoj, kiel estas kutime en Persujo, kaj prezentas tre pentrindan kaj belan vidaŕon. La loĝantaro konsistas el turkoj, kaj, escepte de la registaraj oficistoj, ooni malmulte aŭdas la persan lingvon.« (Nabil: »The Dawn Breakers«. Comte de Gobineau: »Les Religions et les Philosophies dans l’ Asie Central.«)
+ : »La provinco oriente de Kaflan-Kúh, inter Irako kaj Ádhirbáyján. Ĝia ĉefurbo, Zanján, estas ĉirkaŭita per muro, ornamita per multaj turetoj, kiel estas kutime en Persujo, kaj prezentas tre pentrindan kaj belan vidaĵon. La loĝantaro konsistas el turkoj, kaj, escepte de la registaraj oficistoj, ooni malmulte aŭdas la persan lingvon.« (Nabil: »The Dawn Breakers«. Comte de Gobineau: »Les Religions et les Philosophies dans l’ Asie Central.«)
 
 Zaqqúm (arbo)
 : Laŭvorte: »la infera arbo«.

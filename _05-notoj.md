@@ -114,7 +114,7 @@
 
 [57]     Korano, 3,119
 
-[58]     La sesa Imamo de la ěianoj.
+[58]     La sesa Imamo de la ŝianoj.
 
 [59]     Korano, 25,7
 
