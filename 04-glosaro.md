@@ -133,7 +133,7 @@ Bá
 : La litero »B« de la persa alfabeto.
 
 Báb
-: »Pordo«. Titolo, alprenite de Mírzá ‘Alí-Muḥammad post la deklaro de Lia misio en Shíráz, en majo 1844.[179]
+: »Pordo«. Titolo, alprenite de Mírzá ‘Alí-Muḥammad post la deklaro de Lia misio en Shíráz, en majo 1844.^[Báb, kies nomo estis Siyyid ‘Alí Muḥammad, estis naskita en Šľíráz, la 1an de Muḥarram 1235 A.H. (la 20an de oktobro 1819). La dato de Lia naskiĝo konfirmis la veron de la tradicio, atribuata al Imám ‘Alí: „Mi estas du jarojn pli juna, ol nia Sinjoro.” Báb estis ankaů konata laů la jenaj nomoj: „Siyyid-i-Ďľikr”, „’Abdu‘lh-Ďľikr,” Bábu’lláh,” „Siyyid-i-Báb,” „Nuqtiy-i-Úlá,” „Tal’at-i-A‘lá”, „Haḍrat-i-A‘lá”, „Rabb-i-A‘lá,” „Niqtiy-i-Bayán.”]
 
 Bábano (Bábí)
 : Sekvanto dek Báb.
@@ -310,7 +310,7 @@ Imámeco (la doktrino pri)
 :  La ĉefa punkto de diferenco inter la ŝianoj kaj la sunnanoj. Laŭ la imama iserto la vic-aŭtoritato estas afero tute spirita kaj rango, donata sole de Dio, unue pere de Lia Profeto, kaj poste pere de tiuj, kiuj Lin postsekvis. Ĝi havas nenion komunan kun la ĝenerala elekto, kiel komprenas la aferon de sunnanoj. La ĝenerala esprimo »Imameco« koncernas ĉiujn, kiuj estas partianoj de tiu ĉi teorio, sendepende de la maniero, laŭ kiu ili prezentas la postsekvon.
 
 Imám Mahdí
-: La dekdua en la vico de la Imámoj, postsekvintaj Mahometon, filo de Imám Hasan ‘Askarí. Li estis naskita en Surra-man-Ra’a en la j. 255 A.H. kaj heredis la dignon de Imamo en la j. 260 A.H. Li ŝianoj kredas, ke li ne mortis, sed malaperis en subtera trairejo en Surra-man-Ra’a. La periodo de proksimume sesdek jaroj, dum kiu la komunikiĝado kun la Imamo estis ankoraŭ ebla pere de la Báboj (Pordoj), estas konata kiel la »Malgranda Kaŝiteco«. Tiun ĉi periodon sekvis la »Granda Kaŝiteco«, kiam Abú’l-Hasan, la lasta Báb (Pordo), neniun nomis sia sekvanto. Pro tio kun lia morto ĉesis komunikiĝado inter la Imamo kaj la kredantoj, kaj la »Granda Kaŝiteco« komenciĝis kaj daŭros ĝis la »Reveno de la Imamo« okazos en la pleneco de l’ tempo.[180] (E.G. Browne: »Travellers’ Narrative«.)
+: La dekdua en la vico de la Imámoj, postsekvintaj Mahometon, filo de Imám Hasan ‘Askarí. Li estis naskita en Surra-man-Ra’a en la j. 255 A.H. kaj heredis la dignon de Imamo en la j. 260 A.H. Li ŝianoj kredas, ke li ne mortis, sed malaperis en subtera trairejo en Surra-man-Ra’a. La periodo de proksimume sesdek jaroj, dum kiu la komunikiĝado kun la Imamo estis ankoraŭ ebla pere de la Báboj (Pordoj), estas konata kiel la »Malgranda Kaŝiteco«. Tiun ĉi periodon sekvis la »Granda Kaŝiteco«, kiam Abú’l-Hasan, la lasta Báb (Pordo), neniun nomis sia sekvanto. Pro tio kun lia morto ĉesis komunikiĝado inter la Imamo kaj la kredantoj, kaj la »Granda Kaŝiteco« komenciĝis kaj daŭros ĝis la »Reveno de la Imamo« okazos en la pleneco de l’ tempo.^[„Estas notinde, ke la „Revelacio de Mírzá ‘Alí Muḥammad Báb” okazis precize mil jarojn post tiu dato.” (E.G. Browne.)] (E.G. Browne: »Travellers’ Narrative«.)
 
 Imám Músáy-i-Kázím
 : La sepa Imamo. »La tomboj de la du Kázímoj (t.e. de la sepa kaj naŭa Imamo) trovas sin en la distanco de proksimume tri mejloj norde de Baghdád kaj estas unue el la ĉefaj pilgrimceloj de la ŝianoj. Ĉirkaŭe de ili elkreskis urbo, loĝata ĉefe de persoj, kaj konata sub la nomo Kázímeyn.« (E.G. Browne: »Travellers’ Narrative.«)
@@ -408,7 +408,7 @@ Karbilá
 Karim
 : Laŭvorte: »honorindulo«.
 
-Kawťľar
+Kawthar
 : La signifo de tiu ĉi vorto estas »abundeco«. Rivero en la paradizo, el kiu elfluas ĉiuj riveroj.
 
 Khán
@@ -704,12 +704,12 @@ Thamúd (Talmudo)
 : Kolekto de la hebreaj civilaj kaj religiaj leĝoj, ne entenataj en la Kvinlibro. Ĝenerale ĝi konsistas el Miŝno kaj Gemaro, sed iafoje estos limigita nur al la lasta. Ĝi ekzistas en du grandaj kolektoj, la palestina Talmudo kaj la Talmudo de la lando de Izrael.
 
 Ṭihrán (Teherano)
-: La ĉefurbo de Persujo.[181]
+: La ĉefurbo de Persujo.^[Noto de la tradukinto]
 
 Tumano
 : Monsumo egala al unu dolaro.
 
-‘Urvatu’l-Vuťľqa
+‘Urvatu’l-Vuthqa
 : Laŭvorte: »la plej forta tenilo«, simbolo de la Dia Kredo.
 
 Vahhláb

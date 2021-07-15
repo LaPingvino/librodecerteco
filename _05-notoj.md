@@ -246,7 +246,7 @@
 
 [123]    Korano, 55:41
 
-[124]    Bařľdád
+[124]    Baghdád
 
 [125]    Korano, 10:35
 
@@ -266,7 +266,7 @@
 
 [133]    Korano, 17:85
 
-[134]    Hájí Mírzá Karím Khán.
+[134]    .
 
 [135]    „Gvidilo por ignoruloj”
 
@@ -328,7 +328,7 @@
 
 [164]    Korano, 11:27
 
-[165]    Imám Ĺusayn.
+[165]    Imám Ḥusayn.
 
 [166]    Korano, 35:337
 
@@ -348,7 +348,7 @@
 
 [174]    Korano, 25:44.
 
-[175]    Antikva urbo, proksime al kiu konstruita estas Bařľdád.
+[175]    Antikva urbo, proksime al kiu konstruita estas Baghdád.
 
 [176]    Korano, 43:36
 
@@ -356,8 +356,8 @@
 
 [178]    B kaj H signifas Bahá.
 
-[179]    Báb, kies nomo estis Siyyid ‘Alí Muĺammad, estis naskita en Šľíráz, la 1an de Muĺarram 1235 A.H. (la 20an de oktobro 1819). La dato de Lia naskiĝo konfirmis la veron de la tradicio, atribuata al Imám ‘Alí: „Mi estas du jarojn pli juna, ol nia Sinjoro.” Báb estis ankaů konata laů la jenaj nomoj: „Siyyid-i-Ďľikr”, „’Abdu‘lh-Ďľikr,” Bábu’lláh,” „Siyyid-i-Báb,” „Nuqtiy-i-Úlá,” „Tal’at-i-A‘lá”, „Haḍrat-i-A‘lá”, „Rabb-i-A‘lá,” „Niqtiy-i-Bayán.”
+[179]    Báb, kies nomo estis Siyyid ‘Alí Muḥammad, estis naskita en Šľíráz, la 1an de Muḥarram 1235 A.H. (la 20an de oktobro 1819). La dato de Lia naskiĝo konfirmis la veron de la tradicio, atribuata al Imám ‘Alí: „Mi estas du jarojn pli juna, ol nia Sinjoro.” Báb estis ankaů konata laů la jenaj nomoj: „Siyyid-i-Ďľikr”, „’Abdu‘lh-Ďľikr,” Bábu’lláh,” „Siyyid-i-Báb,” „Nuqtiy-i-Úlá,” „Tal’at-i-A‘lá”, „Haḍrat-i-A‘lá”, „Rabb-i-A‘lá,” „Niqtiy-i-Bayán.”
 
-[180]    „Estas notinde, ke la „Revelacio de Mírzá ‘Alí Muĺammad Báb” okazis precize mil jarojn post tiu dato.” (E.G. Browne.)
+[180]    „Estas notinde, ke la „Revelacio de Mírzá ‘Alí Muḥammad Báb” okazis precize mil jarojn post tiu dato.” (E.G. Browne.)
 
 [181]    Noto de la tradukinto.
