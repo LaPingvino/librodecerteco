@@ -21,7 +21,7 @@ Prespretigita, kompletigita kaj korektita de Joop Kiefte por la Bahaa Esperanto-
 
 Provlegita de Anneke Schouten-Buys
 
-PROVLEGA VERSIO
+Versio 2025-05-09
 
 Sendu viajn korektojn ĉiam kun la versio menciita ĉi-supre, indiko de parto kaj indiko de verso, se aplikebla.
 
