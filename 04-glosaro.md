@@ -355,7 +355,7 @@ Jaáhilíyyih
 : La malluma periodo de malklereco inter la araboj antaŭ la apero de Mahometo.
 
 Jabal-i-Básit
-: Laŭvorte: »la malfermita Monto«, aludo al »Máh-Kú«, kies Báb estis malliberigita.
+: Laŭvorte: »la malfermita Monto«, aludo al »Máh-Kú«, kie Báb estis malliberigita.
 
 Jabal-i-Shadid
 : Laŭvorte: »La Malĝoja Monto« (la nombra valoro de la vorto Shadid estas 318, same kiel de Chihríq). Aludo al Chihríq (laŭ »Travellers’ Narrative« Báb restis tri monatojn en la kastelo de Chihríq, antaŭ ol Li estis kondukita Ṭihránon por esti esploraata).
